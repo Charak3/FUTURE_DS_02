@@ -44,11 +44,6 @@ The dashboard showcases campaign performance across multiple dimensions:
 
 ---
 
-## 📄 Files
-
-- `Social_Media_Campaign_Dashboard.pdf` – Exported dashboard view  
-- `campaign_data.xlsx` – Raw dataset used (if included)  
-- `.pbix` file – Available upon request (optional)
 
 ---
 
